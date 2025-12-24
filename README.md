@@ -31,7 +31,10 @@ The system features a novel **three-zone cognitive architecture** specifically o
 - [Use Cases](#use-cases)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Technical Details](#technical-details)
+- [Project Timeline](#project-timeline)
+- [About This Project](#about-this-project)
 - [License](#license)
+- [Contact & Portfolio](#contact--portfolio)
 
 ---
 
